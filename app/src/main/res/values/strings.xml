@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">learn_map</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vp_start_map">Vp. Start Map</string>
+    <string name="apikey">AIzaSyD_5ZSKS9QAp_kWNN_5-D111wnXtLERDCo</string>
+    <string name="VpStart_Detail"><![CDATA[Since our founding in 2014, the VP. Start Team has led the forefront of smart-grid system development & electrical grid automation solutions throughout Cambodia. Noticing the rapid changes averaging at an annual GDP growth rate of 7% and strong development initiatives aimed at revamping the energy sector of Cambodia, i.e increasing electrification rates, electrical grid expansion, grid stabilization, grid-reinforcement, increasing network reliability and energy efficiency, etc. Our Mission has been to contribute our efforts towards the reduction of price paid per kWh for all consumers in Cambodia & soon other rapidly developing economies through our offerings.]]></string>
+</resources>

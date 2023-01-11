@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuMapFragment"
+
+    android:orientation="vertical"
+    >
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="@string/vp_start_map"-->
+<!--        android:textSize="30sp"-->
+<!--        android:textStyle="bold"-->
+<!--        android:textColor="@color/black"-->
+<!--        />-->
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="@string/VpStart_Detail"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:textSize="15sp"-->
+<!--        />-->
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:id="@+id/hq_bt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vp. Start HQ map"
+        style="?attr/materialButtonOutlinedStyle"
+        />
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:id="@+id/campus_bt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="VP.Start Campus map"
+        style="?attr/materialButtonOutlinedStyle"
+        />
+
+
+
+</LinearLayout>
