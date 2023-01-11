@@ -22,3 +22,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "learn_map"
 include ':app'
+include ':Google_map_Routes'
+include ':Network'
